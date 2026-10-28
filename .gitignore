@@ -1,0 +1,10 @@
+# Local raylib setup downloaded by run.ps1
+/.vscode/
+/.clangd
+/build/
+/include/
+/resources/
+/build-MinGW-W64.bat
+/bin/
+/Makefile
+/*.make
